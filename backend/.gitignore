@@ -1,0 +1,15 @@
+# Uploaded videos folder
+uploads/
+
+# Model file (optional if too large)
+cnn_lstm_action.pth
+
+# Python cache / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db

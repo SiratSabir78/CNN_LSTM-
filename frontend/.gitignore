@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Production build folder
+build/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
